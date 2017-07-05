@@ -1,5 +1,7 @@
 # docker.flask_service_boilerplate
 
+![Build Status](https://img.shields.io/maintenance/yes/2017.svg)
+
 A bare bones python Docker setup to support local and production development from a single ops base. A super simple Flask app is contained in the `app/` directory for demo purposes, but this can easily be switched for any WSGI compatible application.
 
 
